@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas Wise</h1>
-<h3 align="center">learn, tinker, create</h3>
+<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Fullstack Web Development**
 
 - 📫 How to reach me **nicholasaragih@gmail.com**
 
