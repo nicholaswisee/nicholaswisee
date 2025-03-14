@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicholas Wise</h1>
+<h1 align="center">Hi 👋, Call me Wise!</h1>
 
 <h3 align="center">My Current Techstack</h3>
 <p align="center">
