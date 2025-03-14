@@ -3,7 +3,7 @@
 <h3 align="center">My Current Techstack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,prisma" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,prisma,ts" />
   </a>
 </p>
 
