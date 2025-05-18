@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<div align="center" display="flex">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholaswisee&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaswisee&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholaswisee&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaswisee&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 </div>
