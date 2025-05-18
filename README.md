@@ -18,6 +18,9 @@
   <a href="https://github.com/nicholaswisee">
     <img src="https://github-readme-stats.vercel.app/api?username=nicholaswisee&show_icons=true&theme=city_lights" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/nicholaswisee">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaswisee&layout=compact&theme=city_lights" />
   </a>
