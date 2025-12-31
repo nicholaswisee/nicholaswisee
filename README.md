@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Call me Wise!</h1>
 
-I'm an Informatics Engineering Sophomore at Institut Teknologi Bandung, 
-currently learning fullstack development and data science.
+- Informatics Engineering Sophomore at Institut Teknologi Bandung
+- Learning fullstack development and data science
 
 <p align="center">
   <a href="https://github.com/nicholaswisee">
