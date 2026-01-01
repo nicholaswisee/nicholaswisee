@@ -14,11 +14,11 @@
 
 <p align="center">
   <a href="https://github.com/nicholaswisee">
-    <img src="https://github-readme-stats-two-psi-53.vercel.app/api?username=nicholaswisee&show_icons=true&theme=nightowl&cache_seconds=86400&v=2026" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nicholaswisee&show_icons=true&theme=nightowl&cache_seconds=86400" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/nicholaswisee">
-    <img src="https://github-readme-stats-two-psi-53.vercel.app/api/top-langs/?username=nicholaswisee&layout=donut&theme=nightowl&cache_seconds=86400&v=2026" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholaswisee&layout=donut&theme=nightowl&cache_seconds=86400" />
   </a>
 </p>
 
