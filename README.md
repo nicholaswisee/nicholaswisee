@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, Call me Wise!</h1>
 
 - Informatics Engineering Sophomore at Institut Teknologi Bandung
-- I like tech.
-
+- 
 ## 💻 Languages
 <p> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC" /> <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" /> <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" /> <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=E76F00" /> <img src="https://img.shields.io/badge/Haskell-0d1117?style=for-the-badge&logo=haskell&logoColor=5D4F85" />  </p>
 
