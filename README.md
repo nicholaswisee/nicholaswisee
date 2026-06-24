@@ -1,11 +1,10 @@
-<h1 align="center">yo, i'm Wise 👋</h1>
+<h1 align="center">yo, i'm Nicholas Wise 👋</h1>
 
 <p align="center">
-  cs sophomore @ itb · bandung, indonesia<br><br>
+  informatics sophomore @ itb · bandung, indonesia<br><br>
   i build full-stack web apps with TypeScript and spend the rest of my time<br>
-  implementing algorithms that have no business being that fun —<br>
-  puzzles, pathfinders, game bots, string matchers, you name it.<br>
-  also dabble in Go backends, neovim configs, and the occasional TempleOS clone.<br><br>
+  exploring technologies that i barely understand. <br>
+  i also dabble in Go backends, neovim configs, and a bit of AI/ML.<br><br>
   <a href="https://nicwise.dev">nicwise.dev</a>
 </p>
 
