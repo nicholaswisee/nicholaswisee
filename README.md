@@ -5,7 +5,7 @@
   i build full-stack web apps with TypeScript and spend the rest of my time<br>
   exploring technologies that i barely understand. <br>
   i also dabble in Go backends, neovim configs, and a bit of AI/ML.<br><br>
-  <a href="https://nicwise.dev">nicwise.dev</a>
+  <a href="https://wisee.live">wisee.live</a>
 </p>
 
 ---
