@@ -1,7 +1,7 @@
 <h1 align="center">yo, i'm Nicholas Wise 👋</h1>
 
 <p align="center">
-  informatics sophomore @ itb · bandung, indonesia<br><br>
+  informatics junior @ itb · bandung, indonesia<br><br>
   i build full-stack web apps with TypeScript and spend the rest of my time<br>
   exploring technologies that i barely understand. <br>
   i also dabble in Go backends, neovim configs, and a bit of AI/ML.<br><br>
